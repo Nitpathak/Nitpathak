@@ -166,7 +166,7 @@
 <td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a [href="https://github.com/Nitpathak/cypressGraphqlDemo](https://github.com/Nitpathak/Phoenix-Inwarranty-Flow)"><b>cypressGraphqlDemo</b></a></td>
+<td><a [href="https://github.com/Nitpathak/cypressGraphqlDemo](https://github.com/Nitpathak/Phoenix-Inwarranty-Flow)"><b>Phoenix-Inwarranty-Flow</b></a></td>
 <td>End to End Postman API Automation</td>
 <td><img src="https://img.shields.io/badge/1-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
