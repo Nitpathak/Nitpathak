@@ -93,7 +93,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/>
-<img src="https://img.shields.io/badge/Playwright-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
+<img src="https://img.shields.io/badge/Playwright-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="playwright"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
 <img src="https://img.shields.io/badge/Karate-00DC82?style=for-the-badge&logo=karate&logoColor=white" alt="karate"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
@@ -112,7 +112,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Claude-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Claude-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 <img src="https://img.shields.io/badge/Cursor-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
