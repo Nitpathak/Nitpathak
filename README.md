@@ -35,15 +35,15 @@
 
 📍 **Pune**
 
-💼 **8**
+💼 **9**
 
 🔭 Currently working on **[cypress-bootstrapper](https://github.com/Nitpathak/cypress-bootstrapper)**
 
 🌱 Currently learning **Playwright**
 
-💬 Ask me about **Cypress, API and CI/CD**
+💬 Ask me about **Cypress, API, Postman, Github, Claude and CI/CD**
 
-🎓 Certifications: **AWS Certified**
+🎓 Certifications: **AWS Certified** and **ISTQB® Certified Tester Foundation Level v4.0**
 
 
 📦 **2** repositories | ⭐ **1** stars
