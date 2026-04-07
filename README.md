@@ -31,9 +31,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitpathak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
-🏢 **Tech9**
+🏢 **Tech9(https://www.tech9.com/)**
 
-📍 **Pune**
+📍 **Azamgarh, Uttar Pradesh, India**
 
 💼 **9**
 
@@ -46,7 +46,7 @@
 🎓 Certifications: **AWS Certified** and **ISTQB® Certified Tester Foundation Level v4.0**
 
 
-📦 **2** repositories | ⭐ **1** stars
+📦 **15** repositories | ⭐ **1** stars
 
 <br clear="right"/>
 
