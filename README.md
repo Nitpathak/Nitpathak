@@ -69,10 +69,10 @@ These days I'm focused on **API-first automation** and **AI-assisted testing**, 
 
 ### 🎓 Education
 
-| 🗓️ Year | 📜 Qualification | 🏫 Institution |
-|:--------|:----------------|:---------------|
-| **2009 – 2013** | **B.Tech** in Information Technology | **Galgotias College of Engineering and Technology** (GCET), Greater Noida |
-| **2014** | PG Diploma in Advanced Computing (C-DAC) | Institute for Advanced Computing and Software Development (IACSD) |
+| 📜 Qualification | 🏫 Institution |
+|:----------------|:---------------|
+| **B.Tech** in Information Technology | **Galgotias College of Engineering and Technology** (GCET), Greater Noida |
+| PG Diploma in Advanced Computing (C-DAC) | Institute for Advanced Computing and Software Development (IACSD) |
 
 ---
 
