@@ -174,8 +174,8 @@ These days I'm focused on **API-first automation** and **AI-assisted testing**, 
 
 | 🏅 | Certification | Issuer | Year |
 |:--:|:--------------|:-------|:----:|
-| 🎓 | Certified Tester Foundation Level (CTFL) v4.0 | ISTQB® | — |
-| ☁️ | AWS Certified | Amazon Web Services | — |
+| 🎓 | Certified Tester Foundation Level (CTFL) v4.0 | ISTQB® | 2026 |
+| ☁️ | AWS Certified | Amazon Web Services | 2026 |
 | 🤖 | Automation Specialist Level 1 & 2 | Tricentis | 2020–21 |
 | 🔌 | Automation Specialist for API | Tricentis | 2021 |
 | 🗄️ | Automation Specialist for Databases | Tricentis | 2021 |
